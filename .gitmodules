@@ -1,6 +1,3 @@
 [submodule "weather-widget"]
 	path = weather-widget
 	url = https://github.com/TimiMakkonen/weather-widget.git
-[submodule "repo_highlights"]
-	path = repo_highlights
-	url = https://gist.github.com/a9fe55d0ed77c4a74add6531e418ea94.git
